@@ -35,8 +35,8 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 plugins:
   - jekyll-feed
 

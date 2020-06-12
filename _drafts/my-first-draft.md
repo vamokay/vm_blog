@@ -1,6 +1,6 @@
 ---
 layout: post
+title: Groups
 ---
 
-
-Some draft content
+What is a group?
