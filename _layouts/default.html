@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+  <script type="text/javascript">
+  {% if page.math %}
+  var stylesheet = document.createElement('link');
+  stylesheet.href = '/css/katex.css';
+  stylesheet.rel = 'stylesheet';
+  stylesheet.type = 'text/css';
+  document.getElementsByTagName('head')[0].appendChild(stylesheet);
+  {% endif %}
+      </script>
+  {% if page.math %}
+      <script type="text/javascript">{% include js/katex.js %}</script>
+  {% endif %}
+
+  </body>
+
+</html>
