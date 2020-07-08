@@ -5,7 +5,7 @@ categories: Groups
 math: "true"
 ---
 
-I mentioned in [my last post]({% post_url /coolmaths/2020-06-11-intro %}) that sets were the underlying framework for a variety of areas of mathematics - many areas of maths start with considering sets with special rules, known as axioms, and then seeing what we can get with those. I want to talk about a specific one of these today: groups. 
+I mentioned in [my last post]({% post_url /vm_blog/coolmaths/2020-06-11-intro %}) that sets were the underlying framework for a variety of areas of mathematics - many areas of maths start with considering sets with special rules, known as axioms, and then seeing what we can get with those. I want to talk about a specific one of these today: groups. 
 
 I'm currently doing an [online course in Algebraic Geometry][agittoc] (more on that later, maybe), and while I've learned some technical maths, I think what's been much more important for me is the idea of the importance of names. In this case, we shouldn't be asking what a group is, but rather why it is. But really (at least to me) this is two questions: 
 
