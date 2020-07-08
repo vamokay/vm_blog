@@ -19,11 +19,11 @@ Why should I use the word group to describe something? Well, more than a set, a 
 
 While we're thinking about that, let's look at some geometric intuition. Here's an equilateral triangle:
 
-![triangleS3](/assets/triangleS3.png)
+![triangleS3](/assets/img/triangleS3.png)
 
 A very obvious, intuitive "fact" is that the three lines cutting across the triangle are lines of symmetry: reflecting the triangle across any of the lines (or more than one) leaves you with the same triangle, with the labels on the corners changed. For example, reflecting in \\(\sigma_1\\) fixes \\(a\\) and swaps \\(b\\) and \\(c\\). 
 
-We also have rotational symmetry: we can rotate \\(a\\) to \\(b\\) (one-third of a circle, so \\(120^{\circ}\\) or \\(\frac{2\pi}{3}\\) radians), \\(a\\) to $c$ (two-thirds of a circle, so $$240^{\circ}$$ or $$\frac{4\pi}{3}$$ radians) or \\(a\\) to itself, (do nothing, or equivalently, rotate by a full circle, $$360^{\circ}$$ or $$2\pi$$ radians).  
+We also have rotational symmetry: we can rotate \\(a\\) to \\(b\\) (one-third of a circle, so \\(120^{\circ}\\) or \\(\frac{2\pi}{3}\\) radians), \\(a\\) to $$c$$ (two-thirds of a circle, so $$240^{\circ}$$ or $$\frac{4\pi}{3}$$ radians) or \\(a\\) to itself, (do nothing, or equivalently, rotate by a full circle, $$360^{\circ}$$ or $$2\pi$$ radians).  
 
 Together the reflections and rotations give us a set of things - transformations - we can do to a triangle that leave it looking the same. 
 
