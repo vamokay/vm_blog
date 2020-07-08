@@ -19,7 +19,7 @@ Why should I use the word group to describe something? Well, more than a set, a 
 
 While we're thinking about that, let's look at some geometric intuition. Here's an equilateral triangle:
 
-![triangleS3](/assets/img/triangleS3.png)
+![triangleS3](/vm_blog/assets/img/triangleS3.png)
 
 A very obvious, intuitive "fact" is that the three lines cutting across the triangle are lines of symmetry: reflecting the triangle across any of the lines (or more than one) leaves you with the same triangle, with the labels on the corners changed. For example, reflecting in \\(\sigma_1\\) fixes \\(a\\) and swaps \\(b\\) and \\(c\\). 
 
